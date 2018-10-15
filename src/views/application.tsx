@@ -843,6 +843,7 @@ const style = StyleSheet.create({
     ':hover': {
       background: Colors.GRAY,
     },
+    fontSize: FontSize.TOOLBAR_TAB,
   },
   toolbarTabActive: {
     background: Colors.BRIGHT_BLUE,
